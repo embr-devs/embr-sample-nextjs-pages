@@ -1,6 +1,4 @@
 platform: nodejs
-platformVersion: "20"
-buildCommand: "npm ci && npm run build"
 autoDeploy: true
 
 run:
