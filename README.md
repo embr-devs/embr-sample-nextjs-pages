@@ -11,7 +11,7 @@ Exercises:
 - **ISR** via `getStaticProps` + `revalidate: 30`
 - A dedicated **`/api/health`** API route for Embr's health check
 
-See the companion [App Router sample](https://github.com/seligj95/embr-sample-nextjs-app-router) for
+See the companion [App Router sample](https://github.com/embr-devs/embr-sample-nextjs-app-router) for
 React Server Components and Suspense-streamed SSR.
 
 ## Deploy to Embr
